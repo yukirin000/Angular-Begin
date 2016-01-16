@@ -1,5 +1,5 @@
 # Angular-Begin
-<!doctype html>
+<html>
 <html>
 <head>
 
